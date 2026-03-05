@@ -1,6 +1,12 @@
 --------------------------------------------------
-My own "Sheet-Assiut-Juniors-Phase-1" solutions
+✨ My own "Sheet-Assiut-Juniors-Phase-1" solutions
 --------------------------------------------------
+📌 Link sheet -> https://codeforces.com/group/3nQaj5GMG5/contests
+              -> https://vjudge.net/contest/559993#overview
+---------------------------------------------------------------
+📘 TOPICS :
+-----------
+
 - Static Range Queries:
 --> [ Prefix sum (1D , 2D , 3D), Frequency Array , Partial Sum (1D , 2D)]
 

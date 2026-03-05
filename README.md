@@ -1,7 +1,7 @@
 --------------------------------------------------
 ✨ My own "Sheet-Assiut-Juniors-Phase-1" solutions
 --------------------------------------------------
-📌 Link sheet -> https://codeforces.com/group/3nQaj5GMG5/contests
+📌 Link sheet -> https://codeforces.com/group/3nQaj5GMG5/contests                                                                                                                
               -> https://vjudge.net/contest/559993#overview
 ---------------------------------------------------------------
 📘 TOPICS :
